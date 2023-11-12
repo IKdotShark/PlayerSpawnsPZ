@@ -29,6 +29,8 @@ New places of player spawn in game Project Zomboid
 * Unknown - Отдаленный участок карты, откуда выбраться не так уж и легко
 
 В директории res находятся файлы примерного описания каждой из локаций.
+
+Может работать не стабильно, если помещение в котором вы спавнитесь закрыто, это так же относится и к "Shrek"
 ## ENG description
 The site where the coordinates for spawning players are taken from: https://map.projectzomboid.com
 We take these files and put them in the folder `C:Program Files (x86)SteamsteamappscommonProjectZomboidmediamaps`
@@ -58,3 +60,5 @@ What locations (points) are in this repository:
 * Unknown - A remote area of ​​the map, from where it is not so easy to get out
 
 The res directory contains files with approximate descriptions of each location.
+
+May not work stably if the room you spawn in is closed, this also applies to 'Shrek'
